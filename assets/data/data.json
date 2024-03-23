@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Santiago Cerutti | Portafolio",
+    "description": "Soy Santiago, economista y entusiasta de la programación.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Santiago Cerutti",
+    "skill": "Economista, Programador",
+    "location": "Argentina",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "santiagocerutti1@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "likedin": "https://linkedin.com/in/santiago-cerutti-12026880"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy economista de la UNLP ......",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
